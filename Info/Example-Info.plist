@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BGTaskSchedulerPermittedIdentifiers</key>
+    <array>
+        <string>com.your.bundle.refresh</string>
+    </array>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+    </array>
+    <key>NSCalendarsUsageDescription</key>
+    <string>To analyze yesterday’s schedule and help generate your plan.</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>To read completed reminders for your progress streak.</string>
+</dict>
+</plist>
