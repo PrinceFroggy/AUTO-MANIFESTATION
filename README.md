@@ -2,7 +2,7 @@
 
 BY: ANDREW JUSTIN SOLESA
 
-https://hostr.co/file/970/pr3V3KudJCRV/IMG_0764.png
+![picture]https://hostr.co/file/970/pr3V3KudJCRV/IMG_0764.png
 
 This is a **SwiftUI** source bundle that implements the “Same past → two interpretations → different plans” automation with a **manifestation layer**:
 
